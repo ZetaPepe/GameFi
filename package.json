@@ -4,7 +4,7 @@
   "description": "MYKD - eSports and Gaming NFT Tailwind Template",
   "main": "index.js",
   "scripts": {
-    "build": "npx tailwindcss -i ./src/input.css -o ./dist/style.css --watch"
+    "build": "npx tailwindcss -i ./src/input.css -o ./dist/style.css"
   },
   "keywords": [],
   "author": "ThemeGenix",
